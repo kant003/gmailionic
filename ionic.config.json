@@ -1,0 +1,8 @@
+{
+  "name": "gmail",
+  "app_id": "a4413662",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
